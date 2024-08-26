@@ -1,9 +1,12 @@
+import { Header } from '@/app/components/Header';
 import { Container } from './styles';
 
 export function Groups() {
   return (
     <Container>
-
+      <Header>
+        
+      </Header>
     </Container>
   );
 }
